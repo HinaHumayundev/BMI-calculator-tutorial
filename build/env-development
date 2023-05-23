@@ -1,0 +1,2 @@
+export HTTP_PORT=4000
+export LOG_LEVEL=debug

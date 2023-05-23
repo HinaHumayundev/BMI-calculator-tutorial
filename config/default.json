@@ -1,0 +1,6 @@
+{
+  "expressPort": 4000,
+  "log": {
+    "label": "BMI Calculator"
+  }
+}

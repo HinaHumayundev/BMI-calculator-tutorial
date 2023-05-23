@@ -1,0 +1,10 @@
+{
+  "expressPort": "HTTP_PORT",
+  "environment": "NODE_ENV",
+  "mongoose": {
+    "url": "MONGOOSE_URL"
+  },
+  "log": {
+    "level": "LOG_LEVEL"
+  }
+}

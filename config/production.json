@@ -1,0 +1,6 @@
+{
+  "environment": "production",
+  "log": {
+    "level": "info"
+  }
+}

@@ -1,0 +1,13 @@
+# This template file contains all environment variables required to start the app.
+# A copy should be taken and named env-*** where *** is the value of NODE_ENV.
+#
+# Required
+#
+export DB_B2_PASS=
+
+export MONGOOSE_URL=
+
+#
+# Optional - see config/custom-environment-variables.json
+#
+export LOG_LEVEL=

@@ -1,0 +1,29 @@
+{
+  "extends": ["tslint-config-airbnb", "tslint-plugin-prettier", "tslint-config-prettier"],
+  "rules": {
+    "interface-name": false,
+    "import-name": false,
+    "max-classes-per-file": [true, 5],
+    "array-element-newline": ["error", "consistent"],
+    "member-access": false,
+    "no-any": true,
+    "no-console": false,
+    "no-debugger": true,
+    "no-empty": false,
+    "no-unnecessary-else": true,
+    "no-unused-expression": false,
+    "no-unused-variable": true,
+    "object-literal-sort-keys": false,
+    "ordered-imports": [
+      true,
+      {
+        "import-sources-order": "lowercase-last",
+        "named-imports-order": "lowercase-first"
+      }
+    ],
+    "prefer-object-spread": true,
+    "prefer-template": true,
+    "prettier": true,
+    "variable-name": [true, "check-format", "allow-leading-underscore"]
+  }
+}
